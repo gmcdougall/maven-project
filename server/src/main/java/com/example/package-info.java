@@ -2,4 +2,4 @@
 /**
  * This is a package-info file
  */
-package com.example;\n
+package com.example;
